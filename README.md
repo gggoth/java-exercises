@@ -1,3 +1,3 @@
 # java-exercises
 
-Some function exercises from The Odin Project Java Foundations part 3.
+Some function exercises from The Odin Project Java Fundamentals part 3.
